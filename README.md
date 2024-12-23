@@ -24,4 +24,4 @@ No se requieren dependencias externas, ya que este proyecto utiliza solo HTML, C
 
 1. Clona este repositorio o descarga el archivo ZIP:
    ```bash
-   git clone https://github.com/tu-usuario/pokedex.git
+   git clone https://github.com/fimercadog/pokedex-js
